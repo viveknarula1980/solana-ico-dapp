@@ -19,24 +19,6 @@ Perfect for blockchain enthusiasts and developers looking to enhance their skill
 
 #Solana #Rust #AnchorFramework #Nextjs #BlockchainDevelopment #Web3 #SPLToken #ICODApp
 
-## Project Overview
-
-![alt text](https://www.daulathussain.com/wp-content/uploads/2025/01/Solana-SPL-Token-ICO-DApp.jpeg)
-
-## Instruction
-
-Kindly follow the following Instructions to run the project in your system and install the necessary requirements
-
-- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-a-solana-ico-presale-dapp-or-rust-anchor-framework-and-next.js-solana-dapp-project)
-
-#### Setup Video
-
-- [Final Code Setup video](https://youtu.be/PUs-xCzFrqg?si=CkpHRbBHSe46OQbC)
-
-```
-  WATCH: Setup & Demo Of Project
-```
-
 #### Install Vs Code Editor
 
 ```
