@@ -35,10 +35,7 @@ Perfect for blockchain enthusiasts and developers looking to enhance their skill
 ```
 
 #### Clone Starter File
-
-```
-  GET: Project Starter File Download
-```
+git clone 
 
 All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
 
