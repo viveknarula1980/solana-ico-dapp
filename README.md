@@ -46,30 +46,8 @@ All you need to follow the complete project and follow the instructions which ar
 
 If you download the final source code then you can follow the following instructions to run the Dapp successfully
 
-#### Setup Video
-
-```
-  WATCH: Setup & Demo Of Project
 ```
 
-#### Final Source Code
-
-```
-  Download the Final Source Code
-  URL: https://www.theblockchaincoders.com/SourceCode
-```
-
-#### Install Vs Code Editor
-
-```
-  GET: VsCode Editor
-  URL: https://code.visualstudio.com/download
-```
-
-```
-  Get: Free Test Faucets
-   URL: https://beta.solpg.io/
-```
 
 #### RemixID
 
