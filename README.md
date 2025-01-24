@@ -21,6 +21,12 @@ Perfect for blockchain enthusiasts and developers looking to enhance their skill
 
 #### Install Vs Code Editor
 
+
+
+## Contributing:
+
+Contributions are welcome! Please open an issue to discuss proposed changes or submit a pull request.
+
 ```
   GET: VsCode Editor
   URL: https://code.visualstudio.com/download
