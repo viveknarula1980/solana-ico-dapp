@@ -37,6 +37,10 @@ Perfect for blockchain enthusiasts and developers looking to enhance their skill
 #### Clone Starter File
 git clone https://github.com/viveknarula1980/solana-ico-dapp.git
 
+npm i
+
+npm run dev
+
 All you need to follow the complete project and follow the instructions which are explained in the tutorial by Daulat
 
 ## Final Code Instruction
